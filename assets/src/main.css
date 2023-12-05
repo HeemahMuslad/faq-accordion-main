@@ -2,6 +2,7 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  font-family: "Work Sans", sans-serif;
 }
 body {
   background-image: url(/assets/images/background-pattern-desktop.svg);
@@ -40,4 +41,26 @@ body {
   display: flex;
   align-items: center;
   gap: 20px;
+}
+.QA_div {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  /* flex-direction: column; */
+}
+.text_div {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  /* gap: 100px; */
+
+  /* gap: 50px; */
+}
+.icon_div {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  /* gap: 80px; */
+
+  /* gap: 50px; */
 }
