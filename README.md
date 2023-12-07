@@ -11,10 +11,7 @@ This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://w
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+
 
 ## Overview
 
@@ -29,30 +26,29 @@ Users should be able to:
 
 ### Screenshot
 
-![/assets/images/Screen%20Shot%202023-12-07%20at%205.27.31%20AM.png]()
+![](/assets/images/Screen%20Shot%202023-12-07%20at%205.27.31%20AM.png)
+
+
 
 ### Links
 
-- Solution URL: [https://github.com/HeemahMuslad/faq-accordion-main]
-- Live Site URL: [Add live site URL here]
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz/hub)
+- Live Site URL: [Add live site URL here](https://gentle-field-0454c570f.4.azurestaticapps.net/)
 
 ## My process
 
 ### Built with
-
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
-- [HTML]
-- [CSS]
-- [Javascript]
+- Javascript
 
 
+### What I learned
+I learnt how to implement html tags on javascript 
+I learnt how to use event listeners to dynamically hide and unhide content
+I improved my javascript skills with the help of using new syntax
+I also implemented a waterfall approach in building the solution
 
-## Author
-
-- Website - [Rohimat Mustapha](https://www.your-site.com)
-- Frontend Mentor - [@rohimatmustapha](https://www.frontendmentor.io/profile/rohimatmustapha)
-- Twitter - [@heemahmuslad](https://www.twitter.com/heemahmuslad)
 
