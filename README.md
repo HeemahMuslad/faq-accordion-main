@@ -45,10 +45,12 @@ Users should be able to:
 - Javascript
 
 
+### Brief Explaination of how the solution was built
+ I set up my webpage using HTML to lay out the structure and to keep things neat, I went for JavaScript and used querySelector to handle some HTML elements dynamically. This way, I didn't have to clutter up my HTML file too much. For the interactive aspect, I used event listeners to show or hide the answers when someone clicks and, I made everything pop with some colorful CSS on those HTML tags.
+ To keep the data organized, I created a JavaScript file called data.js to hold all the important data needed. After all that, I brought everything together in a seamless merge to make the project look more organized 
+
 ### What I learned
 I learnt how to implement html tags on javascript 
 I learnt how to use event listeners to dynamically hide and unhide content
 I improved my javascript skills with the help of using new syntax
 I also implemented a waterfall approach in building the solution
-
-
