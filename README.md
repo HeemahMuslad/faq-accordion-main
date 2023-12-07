@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](/assets/images/Screen%20Shot%202023-12-07%20at%205.27.31%20AM.png)
+![/assets/images/Screen%20Shot%202023-12-07%20at%205.27.31%20AM.png]()
 
 ### Links
 
