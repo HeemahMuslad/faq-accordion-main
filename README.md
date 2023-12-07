@@ -10,6 +10,7 @@ This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://w
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+  - [Brief Explaination of how the solution was built](### Brief Explaination of how the solution was built)
   - [What I learned](#what-i-learned)
 
 
@@ -26,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](/assets/images/Screen%20Shot%202023-12-07%20at%205.27.31%20AM.png)
+![](./assets/images/Screen%20Shot%202023-12-07%20at%205.27.31%20AM.png)
 
 
 
