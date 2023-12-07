@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz/hub)
-- Live Site URL: [Add live site URL here](https://gentle-field-0454c570f.4.azurestaticapps.net/)
+- Solution URL: [Solution URL ](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz/hub)
+- Live Site URL: [Live site URL ](https://gentle-field-0454c570f.4.azurestaticapps.net/)
 
 ## My process
 
